@@ -11,4 +11,4 @@ I also want to talk smack if so inclned.
 ```
 
 I created a simple to use chat app using Socket.io, EJS, and Express.
-In the current configuation, the user will enter their username and begin chatting.  Future improvements will include grabbing the username from the profile page and automatically inputting this information.  
+In the current configuation, the user will enter their username and begin chatting.  Future improvements will include grabbing the username from the profile page and automatically inputting this information into the chat.
