@@ -6,7 +6,7 @@ Talk Smack with your friends about NFL games, Teams and players!
 ```
 
 As a USER, I want the ability to communicate with my friends about the NFL.
-I also want to talk smack if so inclned. 
+I also want to talk smack if so inclined. 
 
 ```
 
